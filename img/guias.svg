@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Mapa com rota até um marcador">
+<rect width="800" height="500" fill="#0f1420"/>
+<path d="M150 110 L300 80 L500 120 L650 90 L650 400 L500 430 L300 390 L150 420Z" fill="#6fb3ff"/>
+<path d="M300 80 L300 390 M500 120 L500 430" stroke="#3d7fd6" stroke-width="3"/>
+<path d="M200 360 C240 300 260 260 330 250 S430 300 470 230 S560 170 590 160" fill="none" stroke="#2f7bff" stroke-width="6" stroke-dasharray="14 12" stroke-linecap="round"/>
+<path d="M590 165 c-25 0-40-20-40-40 a40 40 0 0 1 80 0 c0 20-15 40-40 40z" fill="#2f7bff"/><circle cx="590" cy="125" r="13" fill="#6fb3ff"/>
+</svg>
